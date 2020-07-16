@@ -7,6 +7,3 @@ def square_array(array)
   new_elements
 end
 
-puts new_elements 
-new_elements
-
