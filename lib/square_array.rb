@@ -1,3 +1,4 @@
-def square_array(array)
-  new_numbers = []
-end
+
+array = [2,4,6]
+
+array.length.times 
